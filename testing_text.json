@@ -1,0 +1,363 @@
+{"text": " Here's the big lie everyone believes. AI, machine learning, and deep learning are three different technologies. They're not. They're actually three stages of the same story. Think of AI as a company whose goal is simple. Act intelligently like humans. Understand situations, make decisions, and take action. In the beginning, this company worked with fixed rules. If this happens, do that. It worked, but only for simple cases. As problems grew, rules started breaking. So the company created a new team, machine learning. Instead of writing rules, this team learned from past data. That's great for clean, structured problems, like fraud detection, recommendations, or predictions. But then came messy problems. Images, voice, language, real-world driving. Rules failed, simple models failed. So a specialist team was formed, deep learning. It learns patterns in layers directly from raw data, and that's why it powers vision, speech, and modern AI systems. So remember this, AI is the goal. Machine learning is how systems learn from data. And deep learning is what we use when problems become truly complex.", 
+"segments": [
+        {"id": 0, "seek": 0, "start": 0.0, "end": 2.24, "text": " Here's the big lie everyone believes.", "tokens": [
+                50364,
+                1692,
+                311,
+                264,
+                955,
+                4544,
+                1518,
+                12307,
+                13,
+                50476
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 1, "seek": 0, "start": 2.24, "end": 4.64, "text": " AI, machine learning, and deep learning", "tokens": [
+                50476,
+                7318,
+                11,
+                3479,
+                2539,
+                11,
+                293,
+                2452,
+                2539,
+                50596
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 2, "seek": 0, "start": 4.64, "end": 6.58, "text": " are three different technologies.", "tokens": [
+                50596,
+                366,
+                1045,
+                819,
+                7943,
+                13,
+                50693
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 3, "seek": 0, "start": 6.58, "end": 7.54, "text": " They're not.", "tokens": [
+                50693,
+                814,
+                434,
+                406,
+                13,
+                50741
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 4, "seek": 0, "start": 7.54, "end": 10.34, "text": " They're actually three stages of the same story.", "tokens": [
+                50741,
+                814,
+                434,
+                767,
+                1045,
+                10232,
+                295,
+                264,
+                912,
+                1657,
+                13,
+                50881
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 5, "seek": 0, "start": 10.34, "end": 13.44, "text": " Think of AI as a company whose goal is simple.", "tokens": [
+                50881,
+                6557,
+                295,
+                7318,
+                382,
+                257,
+                2237,
+                6104,
+                3387,
+                307,
+                2199,
+                13,
+                51036
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 6, "seek": 0, "start": 13.44, "end": 15.84, "text": " Act intelligently like humans.", "tokens": [
+                51036,
+                3251,
+                5613,
+                2276,
+                411,
+                6255,
+                13,
+                51156
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 7, "seek": 0, "start": 15.84, "end": 19.92, "text": " Understand situations, make decisions, and take action.", "tokens": [
+                51156,
+                26093,
+                6851,
+                11,
+                652,
+                5327,
+                11,
+                293,
+                747,
+                3069,
+                13,
+                51360
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 8, "seek": 0, "start": 19.92, "end": 22.76, "text": " In the beginning, this company worked with fixed rules.", "tokens": [
+                51360,
+                682,
+                264,
+                2863,
+                11,
+                341,
+                2237,
+                2732,
+                365,
+                6806,
+                4474,
+                13,
+                51502
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 9, "seek": 0, "start": 22.76, "end": 25.16, "text": " If this happens, do that.", "tokens": [
+                51502,
+                759,
+                341,
+                2314,
+                11,
+                360,
+                300,
+                13,
+                51622
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 10, "seek": 0, "start": 25.16, "end": 28.0, "text": " It worked, but only for simple cases.", "tokens": [
+                51622,
+                467,
+                2732,
+                11,
+                457,
+                787,
+                337,
+                2199,
+                3331,
+                13,
+                51764
+            ], "temperature": 0.0, "avg_logprob": -0.21008499955709, "compression_ratio": 1.6486486486486487, "no_speech_prob": 0.001594094093888998
+        },
+        {"id": 11, "seek": 2800, "start": 28.0, "end": 31.16, "text": " As problems grew, rules started breaking.", "tokens": [
+                50364,
+                1018,
+                2740,
+                6109,
+                11,
+                4474,
+                1409,
+                7697,
+                13,
+                50522
+            ], "temperature": 0.0, "avg_logprob": -0.23961863310440726, "compression_ratio": 1.5732758620689655, "no_speech_prob": 0.00016255330410785973
+        },
+        {"id": 12, "seek": 2800, "start": 31.16, "end": 34.88, "text": " So the company created a new team, machine learning.", "tokens": [
+                50522,
+                407,
+                264,
+                2237,
+                2942,
+                257,
+                777,
+                1469,
+                11,
+                3479,
+                2539,
+                13,
+                50708
+            ], "temperature": 0.0, "avg_logprob": -0.23961863310440726, "compression_ratio": 1.5732758620689655, "no_speech_prob": 0.00016255330410785973
+        },
+        {"id": 13, "seek": 2800, "start": 34.88, "end": 38.0, "text": " Instead of writing rules, this team learned from past data.", "tokens": [
+                50708,
+                7156,
+                295,
+                3579,
+                4474,
+                11,
+                341,
+                1469,
+                3264,
+                490,
+                1791,
+                1412,
+                13,
+                50864
+            ], "temperature": 0.0, "avg_logprob": -0.23961863310440726, "compression_ratio": 1.5732758620689655, "no_speech_prob": 0.00016255330410785973
+        },
+        {"id": 14, "seek": 2800, "start": 38.0, "end": 41.0, "text": " That's great for clean, structured problems,", "tokens": [
+                50864,
+                663,
+                311,
+                869,
+                337,
+                2541,
+                11,
+                18519,
+                2740,
+                11,
+                51014
+            ], "temperature": 0.0, "avg_logprob": -0.23961863310440726, "compression_ratio": 1.5732758620689655, "no_speech_prob": 0.00016255330410785973
+        },
+        {"id": 15, "seek": 2800, "start": 41.0, "end": 44.82, "text": " like fraud detection, recommendations, or predictions.", "tokens": [
+                51014,
+                411,
+                14560,
+                17784,
+                11,
+                10434,
+                11,
+                420,
+                21264,
+                13,
+                51205
+            ], "temperature": 0.0, "avg_logprob": -0.23961863310440726, "compression_ratio": 1.5732758620689655, "no_speech_prob": 0.00016255330410785973
+        },
+        {"id": 16, "seek": 2800, "start": 44.82, "end": 47.0, "text": " But then came messy problems.", "tokens": [
+                51205,
+                583,
+                550,
+                1361,
+                16191,
+                2740,
+                13,
+                51314
+            ], "temperature": 0.0, "avg_logprob": -0.23961863310440726, "compression_ratio": 1.5732758620689655, "no_speech_prob": 0.00016255330410785973
+        },
+        {"id": 17, "seek": 2800, "start": 47.0, "end": 51.32, "text": " Images, voice, language, real-world driving.", "tokens": [
+                51314,
+                4331,
+                1660,
+                11,
+                3177,
+                11,
+                2856,
+                11,
+                957,
+                12,
+                13217,
+                4840,
+                13,
+                51530
+            ], "temperature": 0.0, "avg_logprob": -0.23961863310440726, "compression_ratio": 1.5732758620689655, "no_speech_prob": 0.00016255330410785973
+        },
+        {"id": 18, "seek": 2800, "start": 51.32, "end": 54.56, "text": " Rules failed, simple models failed.", "tokens": [
+                51530,
+                38897,
+                7612,
+                11,
+                2199,
+                5245,
+                7612,
+                13,
+                51692
+            ], "temperature": 0.0, "avg_logprob": -0.23961863310440726, "compression_ratio": 1.5732758620689655, "no_speech_prob": 0.00016255330410785973
+        },
+        {"id": 19, "seek": 5456, "start": 54.56, "end": 58.24, "text": " So a specialist team was formed, deep learning.", "tokens": [
+                50364,
+                407,
+                257,
+                17008,
+                1469,
+                390,
+                8693,
+                11,
+                2452,
+                2539,
+                13,
+                50548
+            ], "temperature": 0.0, "avg_logprob": -0.24733126604998554, "compression_ratio": 1.5643564356435644, "no_speech_prob": 0.0014534946531057358
+        },
+        {"id": 20, "seek": 5456, "start": 58.24, "end": 62.040000000000006, "text": " It learns patterns in layers directly from raw data,", "tokens": [
+                50548,
+                467,
+                27152,
+                8294,
+                294,
+                7914,
+                3838,
+                490,
+                8936,
+                1412,
+                11,
+                50738
+            ], "temperature": 0.0, "avg_logprob": -0.24733126604998554, "compression_ratio": 1.5643564356435644, "no_speech_prob": 0.0014534946531057358
+        },
+        {"id": 21, "seek": 5456, "start": 62.040000000000006, "end": 66.60000000000001, "text": " and that's why it powers vision, speech, and modern AI systems.", "tokens": [
+                50738,
+                293,
+                300,
+                311,
+                983,
+                309,
+                8674,
+                5201,
+                11,
+                6218,
+                11,
+                293,
+                4363,
+                7318,
+                3652,
+                13,
+                50966
+            ], "temperature": 0.0, "avg_logprob": -0.24733126604998554, "compression_ratio": 1.5643564356435644, "no_speech_prob": 0.0014534946531057358
+        },
+        {"id": 22, "seek": 5456, "start": 66.60000000000001, "end": 69.82000000000001, "text": " So remember this, AI is the goal.", "tokens": [
+                50966,
+                407,
+                1604,
+                341,
+                11,
+                7318,
+                307,
+                264,
+                3387,
+                13,
+                51127
+            ], "temperature": 0.0, "avg_logprob": -0.24733126604998554, "compression_ratio": 1.5643564356435644, "no_speech_prob": 0.0014534946531057358
+        },
+        {"id": 23, "seek": 5456, "start": 69.82000000000001, "end": 72.64, "text": " Machine learning is how systems learn from data.", "tokens": [
+                51127,
+                22155,
+                2539,
+                307,
+                577,
+                3652,
+                1466,
+                490,
+                1412,
+                13,
+                51268
+            ], "temperature": 0.0, "avg_logprob": -0.24733126604998554, "compression_ratio": 1.5643564356435644, "no_speech_prob": 0.0014534946531057358
+        },
+        {"id": 24, "seek": 5456, "start": 72.64, "end": 74.44, "text": " And deep learning is what we use when", "tokens": [
+                51268,
+                400,
+                2452,
+                2539,
+                307,
+                437,
+                321,
+                764,
+                562,
+                51358
+            ], "temperature": 0.0, "avg_logprob": -0.24733126604998554, "compression_ratio": 1.5643564356435644, "no_speech_prob": 0.0014534946531057358
+        },
+        {"id": 25, "seek": 5456, "start": 74.44, "end": 77.32000000000001, "text": " problems become truly complex.", "tokens": [
+                51358,
+                2740,
+                1813,
+                4908,
+                3997,
+                13,
+                51502
+            ], "temperature": 0.0, "avg_logprob": -0.24733126604998554, "compression_ratio": 1.5643564356435644, "no_speech_prob": 0.0014534946531057358
+        }
+    ], "language": "en"
+}
